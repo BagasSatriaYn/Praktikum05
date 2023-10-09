@@ -8,7 +8,7 @@ public class PemilihanBilangan07{
         int angka = input07.nextInt();
 
         String hasil;
-        hasil = (angka > 0.0 ) ? "Bilangan Positif" : "Bilangan Negatif";
+        hasil = (angka > 0.0 ) ? "Bilangan Positif" : "Bilangan ";
         System.out.println(angka+ " adalah " + hasil );
          }
     }
